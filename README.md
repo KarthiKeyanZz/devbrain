@@ -131,7 +131,7 @@ CREATE TABLE events (
 - **Streaming**: Kafka
 - **ML**: Sentence Transformers, scikit-learn, PyTorch
 
-### Frontend (Coming Soon)
+### Frontend 
 - React 18
 - Tailwind CSS
 - Socket.io for real-time updates
