@@ -1,0 +1,43 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Caching
+redis
+
+# Search & Analytics
+elasticsearch==8.8.0
+
+# Machine Learning & NLP
+scikit-learn
+numpy
+sentence-transformers
+pandas
+torch
+
+# Streaming
+kafka-python
+
+# HTTP Client
+requests
+httpx
+
+# Configuration
+python-dotenv
+
+# Logging & Monitoring
+structlog
+
+# Testing
+pytest
+pytest-asyncio
+
+# Utils
+python-multipart
